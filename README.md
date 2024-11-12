@@ -217,7 +217,8 @@ modal.addEventListener('click', (event) => {
 });
 ```
 ## OUTPUT:
-![WEB PHOTO GALLARY](https://github.com/user-attachments/assets/1c22a33b-1dc9-4671-9201-2c32baf5fc8f)
+![image](https://github.com/user-attachments/assets/81035a27-207f-49cc-ace8-47e72e6e6832)
+
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
